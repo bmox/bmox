@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm bmox 👋
 
+- 🌱 I’m currently learning  Ml, Data Science, Computer Vision
+-  😄 Pronouns: He/His
+- ⚡ Fun fact: I love you
 <!--
 **bmox/bmox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
