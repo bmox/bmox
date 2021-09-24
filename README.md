@@ -1,4 +1,4 @@
-### Hi there, I'm bmox 👋
+## Hi there, I'm bmox 👋
 
 - 🌱 I’m currently learning  Ml, Data Science, Computer Vision
 -  😄 Pronouns: He/His
