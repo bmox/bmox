@@ -26,6 +26,11 @@ I❤️ code, Python and anything CREATIVE✨
 <img src ="https://github-readme-stats.vercel.app/api?username=bmox&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bmox&layout=compact)">
 
+
+[![bmox's github activity graph](https://activity-graph.herokuapp.com/graph?username=bmox&theme=react-dark)](https://github.com/bmox/github-readme-activity-graph)
+
+
+
 <!--
 **bmox/bmox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
